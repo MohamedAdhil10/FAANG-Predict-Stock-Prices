@@ -110,8 +110,8 @@ Then, open **`http://192.168.1.6:8501`** in your browser.
 
 ## **Contact**
 **Email:** adhilm9991@gmail.com  
-**GitHub:** [your-username](https://github.com/MohamedAdhil10)  
-**LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/mohaemd-adhil-99118b247/)  
+**GitHub:** https://github.com/MohamedAdhil10 
+**LinkedIn:** https://www.linkedin.com/in/mohamed-adhil-99118b247 
 
 ---
 
