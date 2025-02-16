@@ -87,7 +87,8 @@ FAANG-Stock-Prediction
 
 ---
 ## **Streamlit App Screenshot**
-FAANG.jpg
+![FAANG](https://github.com/user-attachments/assets/0c989b37-9ffd-464f-849a-7a5a1a841e8c)
+
 
 ---
 
