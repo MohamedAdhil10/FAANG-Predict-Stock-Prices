@@ -16,7 +16,7 @@ It trains a **RandomForestRegressor** model on historical stock data and allows 
 ## Features
 
 **Data Cleaning & Preprocessing**  
-**Exploratory Data Analysis (EDA)** (Correlation Heatmap, Box Plot, Scatter Plot)  
+**Exploratory Data Analysis (EDA)** (Line Chart, Correlation Heatmap, Box Plot, Scatter Plot)  
 **Machine Learning Model (RandomForestRegressor)**  
 **Hyperparameter Tuning (Random Search + Grid Search)**  
 **Streamlit Web App for User Predictions**  
