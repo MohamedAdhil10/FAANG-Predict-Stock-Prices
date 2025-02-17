@@ -82,7 +82,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 rf = RandomForestRegressor(n_estimators=200, max_depth=20, random_state=42)
 
-# Random Search (optional for faster tuning)
+# Random Search (For faster tuning)
 random_grid = {
     'n_estimators': np.arange(50, 200, 10),
     'max_depth': [None, 10, 20, 30, 40, 50],
